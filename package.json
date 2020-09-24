@@ -1,0 +1,12 @@
+{
+  "name": "xivapi-ts",
+  "version": "0.0.1",
+  "description": "TS interface for XIV-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeffrey Campbell <tkdbb84@gmail.com>",
+  "repository": "https://github.com/TKDBB84/XIV-API-TS.git"
+}
